@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1527095308 source:c:\users\radek\desktop\pwr\informatyka\laborki\projekt_z_hajsem\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1527091708 source:e:\pwr\sem 2\informatyka\laborki\projekt_z_hajsem\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
